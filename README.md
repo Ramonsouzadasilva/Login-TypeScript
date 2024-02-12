@@ -1,4 +1,4 @@
-# Projeto de Login para gerenciar
+# Projeto de Login
 
 Este projeto inclui um sistema de login para garantir que apenas usuários autorizados tenham acesso às funcionalidades do sistema. O sistema de login inclui:
 
